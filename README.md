@@ -14,8 +14,9 @@ Hi there, I'm **Advait Sarang**, a **Master of Computer Application student** �
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently a student at VESIT;
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
 - 💼 I’m pursuing a Master's degree in Computer Application;
+- 🌱 I’m currently learning Blockchain Technology; 
+
 
 - 📝 See my [Resume](https://drive.google.com/file/d/1XQRd3f41YSlGv0tN8lyRLHb_RZy0pXzJ/view?usp=sharing) to get more info;
 
