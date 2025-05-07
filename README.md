@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi there, I'm **Advait Sarang**, a **Master of Computer Application student** 🚀 from India.
+Hi there, I'm **Advait Sarang**, a **Master of Computer Application student** 🚀 from Mumbai.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -18,7 +18,7 @@ Hi there, I'm **Advait Sarang**, a **Master of Computer Application student** �
 - 🌱 I’m currently learning Blockchain Technology; 
 
 
-- 📝 See my [Resume](https://drive.google.com/file/d/1XQRd3f41YSlGv0tN8lyRLHb_RZy0pXzJ/view?usp=sharing) to get more info;
+- 📝 See my [Resume](https://drive.google.com/file/d/1XpwwKF2rVJ724sla4m0gpyQnDI6mCuAt/view?usp=sharing) to get more info;
 
 
 **Languages and Tools:**  
