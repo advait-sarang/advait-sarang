@@ -1,10 +1,8 @@
-## Hi 👋, I'm Advait Sarang
+## Hi , I'm Advait Sarang   <a href="https://www.linkedin.com/in/advait-sarang/"><img alt="LinkedIn" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></a>
 
-### Software Developer | MCA Graduate | Java & Spring Enthusiast | Mumbai, Maharashtra <a href="https://www.linkedin.com/in/advait-sarang/">
-  <img alt="LinkedIn" height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
-</a>
+### Software Developer | MCA Graduate | Java & Spring Enthusiast | Mumbai, Maharashtra
 
-I'm a software developer from Mumbai, India, with a Master's degree in Computer Applications (MCA) from Vivekanand Education Society's Institute of Technology (VESIT).
+I'm a software developer from Mumbai, Maharashtra with a **Master's degree in Computer Applications (MCA)** from **Vivekanand Education Society's Institute of Technology (VESIT)**.
 
 I enjoy building backend applications, learning modern technologies, and continuously improving my problem-solving and software development skills. Currently, I'm focused on strengthening my expertise in Java, Spring Boot, databases, and cloud technologies.
 
@@ -27,6 +25,10 @@ I enjoy building backend applications, learning modern technologies, and continu
 
 📎 [View Resume](https://drive.google.com/file/d/1CxnwsUsB6SGaGwcwMBmqcnBYT6g_Z4XZ/view)
 
+## 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/advait-sarang
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -47,7 +49,3 @@ I enjoy building backend applications, learning modern technologies, and continu
 ## 📊 GitHub Stats
 
 ![Advait's GitHub Stats](https://github-readme-stats.vercel.app/api?username=advait-sarang&show_icons=true&hide_border=true)
-
-## 🤝 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/advait-sarang
