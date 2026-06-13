@@ -2,7 +2,7 @@
 
 ### Software Developer | MCA Graduate | Java & Spring Enthusiast | Mumbai, Maharashtra
 <a href="https://www.linkedin.com/in/advait-sarang/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+  <img align="left" alt="LinkedIn" height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
 <br />
 
