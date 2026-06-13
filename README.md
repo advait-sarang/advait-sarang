@@ -4,7 +4,6 @@
 <a href="https://www.linkedin.com/in/advait-sarang/">
   <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
-
 <br />
 
 I'm a software developer from Mumbai, India, with a Master's degree in Computer Applications (MCA) from Vivekanand Education Society's Institute of Technology (VESIT).
@@ -15,8 +14,6 @@ I enjoy building backend applications, learning modern technologies, and continu
 <img align="right" alt="Coding GIF" height="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <br/>
-<br/><br/>
-<br/>
 
 - 🎓 MCA Graduate from VESIT, Mumbai
 - 💻 Interested in Backend Development and Software Engineering
@@ -25,7 +22,6 @@ I enjoy building backend applications, learning modern technologies, and continu
 - 📚 Always eager to learn new technologies and best practices
 - 🎯 Looking for opportunities to grow as a Software Developer
 
-<br/>
 <br/>
 <br/>
 
