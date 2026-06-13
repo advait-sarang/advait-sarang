@@ -1,10 +1,8 @@
 ## Hi 👋, I'm Advait Sarang
 
-### Software Developer | MCA Graduate | Java & Spring Enthusiast | Mumbai, Maharashtra
-<a href="https://www.linkedin.com/in/advait-sarang/">
-  <img align="left" alt="LinkedIn" height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+### Software Developer | MCA Graduate | Java & Spring Enthusiast | Mumbai, Maharashtra <a href="https://www.linkedin.com/in/advait-sarang/">
+  <img alt="LinkedIn" height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
-<br />
 
 I'm a software developer from Mumbai, India, with a Master's degree in Computer Applications (MCA) from Vivekanand Education Society's Institute of Technology (VESIT).
 
