@@ -1,36 +1,59 @@
-### Hey 👋, I'm Advait
+## Hi 👋, I'm Advait Sarang
 
+### Software Developer | MCA Graduate | Java & Spring Enthusiast
 <a href="https://www.linkedin.com/in/advait-sarang/">
-  <img align="left" alt="Advait's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
 
 <br />
-<br />
 
-Hi there, I'm **Advait Sarang**, a **Master of Computer Application student** 🚀 from Mumbai.
+I'm a software developer from Mumbai, India, with a Master's degree in Computer Applications (MCA) from Vivekanand Education Society's Institute of Technology (VESIT).
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+I enjoy building backend applications, learning modern technologies, and continuously improving my problem-solving and software development skills. Currently, I'm focused on strengthening my expertise in Java, Spring Boot, databases, and cloud technologies.
 
-**Talking about Personal Stuffs:**
+## 🚀 About Me
+<img align="right" alt="Coding GIF" height="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 👨🏽‍💻 I’m currently a student at VESIT;
-- 💼 I’m pursuing a Master's degree in Computer Application;
-- 🌱 I’m currently learning Blockchain Technology; 
+<br/>
+<br/><br/>
+<br/>
 
+- 🎓 MCA Graduate from VESIT, Mumbai
+- 💻 Interested in Backend Development and Software Engineering
+- 🌱 Currently learning Spring Framework & Spring Boot
+- ☁️ Exploring AWS and Cloud Technologies
+- 📚 Always eager to learn new technologies and best practices
+- 🎯 Looking for opportunities to grow as a Software Developer
 
-- 📝 See my [Resume](https://drive.google.com/file/d/1XpwwKF2rVJ724sla4m0gpyQnDI6mCuAt/view?usp=sharing) to get more info;
+<br/>
+<br/>
+<br/>
 
+## 📄 Resume
 
-**Languages and Tools:**  
+📎 [View Resume](https://drive.google.com/file/d/1CxnwsUsB6SGaGwcwMBmqcnBYT6g_Z4XZ/view)
 
+## 🛠️ Tech Stack
 
+### Languages
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+### Frameworks & Tools
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+</p>
 
-![Advait's github stats](https://github-readme-stats.vercel.app/api?username=advait-sarang&show_icons=true&hide_border=true)
+## 📊 GitHub Stats
+
+![Advait's GitHub Stats](https://github-readme-stats.vercel.app/api?username=advait-sarang&show_icons=true&hide_border=true)
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/advait-sarang
